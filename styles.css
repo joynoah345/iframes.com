@@ -1,6 +1,8 @@
 body{
 text-align: center;
 display: block;
+width: 1341px;
+background-repeat: none;
 background: linear-gradient(to bottom left,#fff,rgb(36, 136, 161));
 }
 h1{
