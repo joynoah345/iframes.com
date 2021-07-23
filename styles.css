@@ -2,8 +2,9 @@ body{
 text-align: center;
 display: block;
 width: 1341px;
-background-repeat: none;
+background-repeat: no-repeat;
 background: linear-gradient(to bottom left,#fff,rgb(36, 136, 161));
+background: rgb(106, 163, 130);
 }
 h1{
     padding-bottom: 2%;
